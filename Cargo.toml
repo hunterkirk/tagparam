@@ -1,0 +1,8 @@
+[package]
+name = "tagparam"
+version = "0.3.7"
+edition = "2021"
+
+[dependencies]
+enum-map = "*"
+enum-map-derive = "*"
